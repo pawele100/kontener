@@ -1,0 +1,13 @@
+cd D:\psz   \\ zmiana katalogu
+pwd         \\ wyswietla katalog teraz u¿ywany
+ls -la       \\lista plikow -length all
+git add -h    \\ pomoc do komendy add
+        --h   \\ duzy help
+git push       \\ egzekuje polecenia
+git
+git pull      \\ sciaga z servera
+
+
+
+
+kolaborant
